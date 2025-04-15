@@ -1,1 +1,2 @@
-# slicemanip
+# Slice Manipulation (slicemanip)
+
